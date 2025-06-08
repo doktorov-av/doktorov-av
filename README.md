@@ -1,4 +1,7 @@
-## Hi there 👋
+## Glad to see you on my page! 👋
+
+My name is Doktorov Alexander and i'm a sofware developer from Moscow 
+
 
 <!--
 **doktorov-av/doktorov-av** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
