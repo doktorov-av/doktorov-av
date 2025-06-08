@@ -1,6 +1,10 @@
 ## Glad to see you on my page! 👋
 
-My name is Doktorov Alexander and i'm a sofware developer from Moscow 
+My name is Alexander and i'm a sofware developer from Moscow
+
+### Languages
+
+ - **C** : since 
 
 
 <!--
