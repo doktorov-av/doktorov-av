@@ -22,15 +22,15 @@ Diplomas title is `Alarm software in information computing high-level systems`
  - **C**
    - for educational purposes, simple algorithms
  - **C++**
-   - leetcode algorithms
-   - my first project - DirectX11 & WinAPI based game engine
+   - solving leetcode problems
+   - DirectX11 & WinAPI based game engine
    - game logic within Unreal Engine 5 (along with blueprints)
    - alarm system for NIKIET company
  - **Lua**
-   - execute redis scripts with EVAL
+   - redis scripts execution with EVAL
    - made scenarious in custom maps for Company of Heroes 2 
  - **Go**
-   - RESTful apis
+   - RESTful API's
    - alarm protocols for NIKIET company
  - **Python**
    - machine learning basics (pandas, numpy, scikit-learn, matplotlib) 
