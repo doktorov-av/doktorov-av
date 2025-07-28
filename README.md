@@ -44,18 +44,17 @@ Diplomas title is `Alarm software in information computing high-level systems`
 
 ### Tools
 
+I worked with many tools for developing, debugging, testing and deploying applications.
 
-<!--
-**doktorov-av/doktorov-av** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Great level**:
+* **CMake**:  Configration of C++ projects, finding dependencies, installing libraries, custom targets
+* C++ compilers: **GCC, Clang, MSVC**
+* Package managers: **Conan (v2), vcpkg**
+* C++ testing frameworks: **Gtest, Boost.Test**
+* C++ libraries: **stl** (from C++11 to C++23), **boost** (asio, mp11, property_tree, program_options), **spdlog, drogon, pqxx** and etc...
 
-Here are some ideas to get you started:
+**Intermediate level**:
+// TODO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Basic level**:
+// TODO 
