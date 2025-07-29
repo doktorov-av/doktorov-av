@@ -1,6 +1,7 @@
 # Glad to see you on my page! 👋
 
-My name is Alexander and i'm a sofware developer from Moscow
+My name is Alexander and i'm a sofware developer from Moscow.
+My goal is developing software to make other developers life easier. 
 
 In this readme i'd like to share my software developer experience as well as provide personal infomation and share my wishes
 
